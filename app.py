@@ -8,7 +8,7 @@ CORS(app)  # Enable CORS for all routes
 # DB Config
 db_config = {
     'host': 'tcp.ap-northeast-1.clawcloudrun.com',
-    'port': 40910,
+    'port': 37553,
     'user': 'root',               # Your DB username
     'password': 'Unitec123', # Your DB password
     'database': 'iscg7444'              # Your DB name
